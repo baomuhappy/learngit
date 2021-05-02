@@ -3,4 +3,4 @@ this is second line.
 This is third line.
 hahah
 fifth line
-Git tracks changes.
+Git tracks changes of file.
