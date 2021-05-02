@@ -1,0 +1,218 @@
+cd ..
+ls
+cd..
+cd ..
+ls
+ls -a
+cd home/
+ls
+cd ruitao/
+sudo apt-get install terminator
+cd ..
+cd
+ls
+cd ruitao/
+ls *es
+ls
+ls ?????
+ls ??s*
+ls [DVT]
+ls [D]*
+ls [DVT]*
+ls [DVT]* -l
+ls
+pwb
+pwd
+ls
+cd Music/
+cd ..
+pwd
+cd Desktop/
+ls
+cd ..
+cd Desktop/
+cd ..
+ls
+cd ruitao/
+ls
+ls -l
+ls -a -l
+ls -al
+ls -alh
+cd Desktop/.dfg/
+cd ..
+cd ../..
+ls
+pwd
+cd home/ruitao/
+ls -al
+pwd
+cd Desktop/
+cd
+pwd
+cd Desktop/
+pwd
+cd
+pwd
+cd -
+cd /home/ruitao/Desktop/
+cd -
+pwd
+touch asd.txt
+mkdir myfilder
+ls -a
+pwd
+ls
+rm asd.txt 
+rm -d myfilder/
+ls
+cd Desktop/
+ls
+mv Untitled\ 1.odt ../
+cd ..
+ls
+cp Untitled\ 1.odt Desktop/
+mkdir myfolder
+cp myfolder/ Desktop/
+cp -r myfolder/ Desktop/
+clear
+clear --help
+rm --help
+ma cd
+man cd
+man rm
+ls home/
+ls /home/
+which ls
+user cd
+which cd
+pwd
+touch 123.txt
+touch 1223.txt
+find ~ -name 123
+find ./ -name 123
+find ./ -name 123*
+find / -name 123*
+find --hlep
+find --help
+clear
+find ./ -name '1*'
+pwd
+find ./ -name 12*
+find ./ -name 122*
+find ./ -name 1223*
+find ./ -name 123*
+find ./ -name '123*'
+find ./ -name '12*'
+mv Untitled\ 1.odt abc.odt
+find ./ -size +1
+cd Desktop/
+find ./ -size +1
+find ./ -size +6
+find ./ -size +16
+find ./ -size +17
+find ./ -size +26
+find ./ -size +27
+find ./ -size +18k
+find ./ -size +17k
+find ./ -size +13k
+find ./ -size +10k
+find ./ -size +10K
+find ./ -size +10k
+find ./ -size +10b
+ls -l
+ls -lh
+ls -alh
+mv .dfg dfg
+ls -alh
+cd ..
+find ./ -type l
+find ./ -type d
+find ./ -type f
+ls
+find Desktop/ -type f
+find Desktop/ -type l
+ls -li
+mv 123.txt 1234.txt
+ls -li
+locate 1234
+pwd
+cat 1234.txt 
+cat 1223.txt 
+cat 1234.txt 
+more 1234.txt
+more -n 1234.txt
+more -b 1234.txt
+more --help
+more + 1234.txt
+more +10 1234.txt
+cat -n 1234.txt 
+grep ghj 1234.txt 
+grep -n ghj 1234.txt 
+grep -v ghj 1234.txt 
+grep -nv ghj 1234.txt 
+grep ^ ghj 1234.txt 
+grep ^ghj 1234.txt 
+grep ^'ghj' 1234.txt 
+grep $'ghj' 1234.txt 
+grep 'ghj'$ 1234.txt 
+touch aaa.txt
+echo hello > aaa.txt 
+cat aaa.txt 
+echo hellddo > aaa.txt 
+cat aaa.txt 
+echo hello >> aaa.txt 
+cat aaa.txt 
+ls -lsn
+ls -lsih
+ls -lsih >> aaa.txt 
+cat aaa.txt 
+ls -alhi > new.txt
+cat new.txt 
+ls -lhi | grep aaa
+ls
+cd Desktop/
+ls
+cd ..
+ln Desktop/Untitled\ 1.odt Unti_SL
+ls
+ln Desktop/myfolder/ myfolder_SL
+id
+cd ~
+pwd
+cd Desktop/
+cd ~
+pwd
+cd /
+pwd
+cd ~
+cd Desktop/
+cd /
+ls
+whoami 
+who
+su root
+sudo passwd root
+su root
+who
+whoami 
+su root
+whoami 
+cat /etc/passwd
+git
+sudo apt-get install git
+git
+which git
+find / -name gitconfig
+clear
+git gui
+history
+history>>cmd_history.txt
+
+cat ~/.bash_history
+cat ~/.bash_history > cmd_history.txt
+history>>cmd_history1.txt
+pwd
+cd ~
+pwd
+cd ..
