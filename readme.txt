@@ -4,4 +4,8 @@ This is third line.
 hahah
 fifth line
 Git tracks changes of file.
-Creating a new branch is quick & easy.
+<<<<<<< HEAD
+Creating a new branch is quick and easy.
+=======
+Creating a new branch is quick and easy.
+>>>>>>> feature1
