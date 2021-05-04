@@ -14,4 +14,6 @@ Creating a new branch is quick AND easy.
 new line
 merge id into dev
 
+change in new branch
+change in new branch again
 jjjjj
