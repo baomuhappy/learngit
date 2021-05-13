@@ -9,8 +9,14 @@ Creating a new branch is quick and easy.
 
 Creating a new branch is quick and easy.
 
+new line >> bug fix
+Creating a new branch is quick AND easy.
 new line
+merge id into dev
 
-dddd
+change in new branch
+change in new branch again
+jjjjj
 
-new line 5/13
+srt
+
